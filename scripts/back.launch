@@ -1,0 +1,7 @@
+<launch>
+
+<node pkg="janissary" type="right_motor_back.py" name="right_motor_back" />
+
+<node pkg="janissary" type="left_motor_back.py" name="left_motor_back" />
+
+</launch>
